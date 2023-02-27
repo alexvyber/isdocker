@@ -1,0 +1,16 @@
+{
+  "name": "isdocker",
+  "version": "1.0.0",
+  "description": "Based on https://www.npmjs.com/package/is-docker",
+  "type": "module",
+  "exports": "./index.js",
+  "main": "./index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "cli.js"
+  ]
+}
