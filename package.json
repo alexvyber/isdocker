@@ -1,5 +1,5 @@
 {
-  "name": "isdocker",
+  "name": "@alexvyber/isdocker",
   "version": "1.0.0",
   "description": "Based on https://www.npmjs.com/package/is-docker",
   "type": "module",
