@@ -9,8 +9,7 @@
   },
   "types": "./index.d.ts",
   "files": [
-    "index.mjs",
-    "index.cjs",
+    "*.js",
     "index.d.ts"
   ],
   "engines": {
